@@ -12,7 +12,10 @@
   },
   "keywords": [
     "tsconfig",
-    "TypeScript"
+	 "typescript",
+	 "rules",
+	 "compiler",
+	 "options"
   ],
   "author": "Jed Mao <jedmao@outlook.com>",
   "license": "MIT",
