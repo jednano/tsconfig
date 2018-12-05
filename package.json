@@ -1,11 +1,8 @@
 {
   "name": "@jedmao/tsconfig",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Base TypeScript configuration file.",
-  "main": "tsconfig.json",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "tsconfig": "tsconfig.json",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jedmao/tsconfig.git"
