@@ -1,6 +1,6 @@
 {
   "name": "@jedmao/tsconfig",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Base TypeScript configuration file.",
   "tsconfig": "tsconfig.json",
   "repository": {
